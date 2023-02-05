@@ -1,0 +1,32 @@
+{
+  "id": "4f451679-9311-4f6d-a548-8544949500bf",
+  "name": "ItemUpload",
+  "publisher": "ivansingleton.dev",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "https://ivansingleton.dev/",
+  "help": "https://ivansingleton.dev/",
+  "url": "https://ivansingleton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 53100,
+      "to": 53149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

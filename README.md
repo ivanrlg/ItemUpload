@@ -1,6 +1,6 @@
 # ItemUpload
 
-The following repository shows how to split a list into sublists of size N in Business Central
+This repository is related to AL code on how to massively create/update Items with related tables in Business Central through a web services and also how to use GetCollectedErrors and ErrorInfo to queue the Items that would have errors but not stop the whole process. Of course, everything was an example, more fields and more validations could be extended.
 
 ![image](https://user-images.githubusercontent.com/21310111/216829663-b61d36d6-326a-47e7-bd9f-d116ddfd3fe7.png)
 
